@@ -6,10 +6,10 @@
 
 # Team
 
-1. Akshay Elavia
+1. Sai Chaitanya Dasari
 2. Purvi Misal
 3. Shivani Jain
-4. Sai Chaitanya Dasari
+4. Akshay
 
 # Concept and Advisory
   Siva Sreeraman 
