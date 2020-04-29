@@ -2,19 +2,7 @@
 # Tara
 
  A place where talent meets opportunity.
-
-
-# Team
-
-1. Sai Chaitanya Dasari
-2. Purvi Misal
-3. Shivani Jain
-4. Akshay
-
-# Concept and Advisory
-  Siva Sreeraman 
-  
-We followed agile methodology by having weekly Scrum with Siva and it helped us in meeting the check points and deliver things at right time. 
+ 
    
 # Abstract 
 
